@@ -1,4 +1,4 @@
-# Repositório de Aulas da Disiciplina PCO114 - 2022
+# Repositório de Aulas da Disiciplina PCO114
 
 
 ## Sobre este repositório:
